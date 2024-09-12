@@ -2,10 +2,12 @@
 
 namespace wfm;
 
+use Exception;
+
 class Router
 {
   protected static array $routes = [];
-  protected static array $route = [];
+  protected static $route = '';
 
 
   public static function add($regexp, $route = [])
@@ -23,12 +25,35 @@ class Router
     return self::$route;
   }
 
+  public static function removeParamsFromUrl($str)
+  {
+    if ($str) {
+      $arr = explode('?', $str, 2);
+      return rtrim($arr[0], '/');
+    }
+    return '';
+  }
+
   public static function dispatch($url)
   {
+    $url = self::removeParamsFromUrl($url);
     if (self::matchRoute($url)) {
-      echo 'OKAY';
+      $controller = 'app\controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
+
+      
+      if (class_exists($controller)) {
+        $controllerObj = new $controller(self::$route);
+        $action = self::lowerCamelCase(self::$route['action']  . 'Action');
+        if (method_exists($controllerObj, $action)) {
+          
+        } else {
+          throw new Exception("Метод " . self::$route['action'] . "Action" . " не найден", 404);
+        }
+      } else {
+        throw new Exception("Контроллер {$controller} не найден", 404);
+      }
     } else {
-      echo 'NO';
+      throw new Exception('Страница не найдена', 404);
     }
   }
 
@@ -48,10 +73,10 @@ class Router
         if (!isset($route['admin_prefix'])) {
           $route['admin_prefix'] = '';
         } else {
-          $route['admin_prefix'] = '\\';
+          $route['admin_prefix'] .= '\\';
         }
         $route['controller'] = self::upperCamelCase($route['controller']);
-        debug($route);
+        self::$route = $route;
         return true;
       }
     }
