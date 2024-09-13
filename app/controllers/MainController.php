@@ -1,7 +1,8 @@
 <?php
 namespace app\controllers;
+use wfm\Controller;
 
-class MainController
+class MainController extends Controller
 {
   public function indexAction() {
     echo "Привет мир!";

@@ -36,10 +36,11 @@ class Router
 
   public static function dispatch($url)
   {
+    //Если в REQUEST_URI есть get параметры, избавляюсь от них вызывая соответствующий метод
     $url = self::removeParamsFromUrl($url);
     if (self::matchRoute($url)) {
+      //
       $controller = 'app\controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
-
       
       if (class_exists($controller)) {
         $controllerObj = new $controller(self::$route);
