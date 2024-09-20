@@ -1,12 +1,16 @@
 <?php
 namespace app\controllers;
 
-class PageController
+use wfm\Controller;
+
+class PageController extends Controller
 {
   public static  function viewAction()
   {
     
   }
+
+  
 }
 
 ?>

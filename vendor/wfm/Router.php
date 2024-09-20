@@ -41,12 +41,16 @@ class Router
     if (self::matchRoute($url)) {
       //
       $controller = 'app\controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
-      
       if (class_exists($controller)) {
         $controllerObj = new $controller(self::$route);
+
+        $controllerObj->getModel();
+
         $action = self::lowerCamelCase(self::$route['action']  . 'Action');
+
         if (method_exists($controllerObj, $action)) {
-          
+          $controllerObj->$action();
+          $controllerObj->getView();
         } else {
           throw new Exception("Метод " . self::$route['action'] . "Action" . " не найден", 404);
         }

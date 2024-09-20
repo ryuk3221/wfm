@@ -604,3 +604,465 @@
 ===============
 [2024-09-13 09:55:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
 ===============
+[2024-09-16 11:27:41] Текст ошибки: Class "wfm\Controller" not found | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 5
+===============
+[2024-09-16 11:27:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-16 11:27:45] Текст ошибки: Class "wfm\Controller" not found | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 5
+===============
+[2024-09-16 11:27:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-16 11:28:52] Текст ошибки: Class "wfm\Controller" not found | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 5
+===============
+[2024-09-16 11:28:52] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-16 11:29:25] Текст ошибки: Class "app\controllers\Controller" not found | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 5
+===============
+[2024-09-16 11:29:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-16 11:29:50] Текст ошибки: Class "wfm\Controller" not found | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 6
+===============
+[2024-09-16 11:29:50] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-16 11:29:51] Текст ошибки: Class "wfm\Controller" not found | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 6
+===============
+[2024-09-16 11:29:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-16 11:29:51] Текст ошибки: Class "wfm\Controller" not found | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 6
+===============
+[2024-09-16 11:29:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-16 11:29:52] Текст ошибки: Class "wfm\Controller" not found | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 6
+===============
+[2024-09-16 11:29:52] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-16 11:29:52] Текст ошибки: Class "wfm\Controller" not found | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 6
+===============
+[2024-09-16 11:29:52] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-16 11:30:52] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-16 12:24:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:25:48] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:26:49] Текст ошибки: explode(): Argument #1 ($separator) cannot be empty | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 26
+===============
+[2024-09-16 12:26:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:26:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:29:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:38:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:39:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:41:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:41:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:42:40] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:42:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:42:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:48:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:48:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:48:48] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:52:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:52:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:53:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:54:30] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:55:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:55:46] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 39
+===============
+[2024-09-16 12:55:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:56:29] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:56:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:56:29] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:56:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:56:29] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:56:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:56:29] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:56:30] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:56:30] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:56:30] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:56:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:57:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:57:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:57:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:57:52] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:57:52] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:57:53] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:57:54] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:58:17] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:58:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:58:18] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:58:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:58:18] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:58:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:58:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:58:54] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:58:54] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:58:55] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:58:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:58:55] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:58:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:58:55] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 40
+===============
+[2024-09-16 12:58:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 12:59:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 13:00:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 13:01:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 13:01:31] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 13:01:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 13:01:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 13:01:40] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 13:01:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-16 13:01:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-19 12:38:31] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+===============
+[2024-09-19 15:31:08] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-19 15:31:08] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-19 15:31:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:36:13] Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 48
+===============
+[2024-09-19 15:36:15] Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 48
+===============
+[2024-09-19 15:36:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:37:06] Текст ошибки: Call to undefined method app\controllers\MainController::action() | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 52
+===============
+[2024-09-19 15:37:06] Текст ошибки: Call to undefined method app\controllers\MainController::action() | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 52
+===============
+[2024-09-19 15:37:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:37:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:37:10] Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 48
+===============
+[2024-09-19 15:37:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:41:49] Текст ошибки: Call to undefined method app\controllers\PageController::action() | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 52
+===============
+[2024-09-19 15:41:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:43:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:43:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:44:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:45:18] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 48
+===============
+[2024-09-19 15:45:18] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 48
+===============
+[2024-09-19 15:45:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:46:33] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-19 15:46:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:46:35] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 58
+===============
+[2024-09-19 15:46:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:46:42] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 48
+===============
+[2024-09-19 15:46:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:47:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:53:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:57:41] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc./app/views/admin/Main/index.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 34
+===============
+[2024-09-19 15:57:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:57:50] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc./app/views/Main/index.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 34
+===============
+[2024-09-19 15:57:51] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc./app/views/Main/index.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 34
+===============
+[2024-09-19 15:57:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:59:45] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc./app/views/Main/index.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 34
+===============
+[2024-09-19 15:59:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 15:59:46] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc./app/views/Main/index.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 34
+===============
+[2024-09-19 15:59:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:01:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:02:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:02:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:02:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:07:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:07:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:07:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:07:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:07:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:07:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:07:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:10:27] Текст ошибки: Не найден шаблон | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:10:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:10:47] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:10:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:53] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:53] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:54] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:54] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:56] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:56] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:56] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:56] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:57] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:57] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:57] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:57] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:57] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:57] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:11:58] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:11:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:12:27] Текст ошибки: Метод indexAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 55
+===============
+[2024-09-19 16:12:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:12:47] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/test.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:12:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:13:46] Текст ошибки: Type of app\controllers\MainController::$layout must be string|false (as in class wfm\Controller) | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 6
+===============
+[2024-09-19 16:13:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:14:21] Текст ошибки: Метод indexAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 55
+===============
+[2024-09-19 16:14:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:14:44] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/test2.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:14:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:15:49] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/test2.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:15:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:15:50] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/test2.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:15:50] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:16:10] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:16:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:16:11] Текст ошибки: Не найден шаблон C:\OSPanel\domains\new-ishop.loc./app/views/layout/ishop.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+===============
+[2024-09-19 16:16:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:16:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:21:48] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:23:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:26:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:26:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:26:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:26:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:26:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:37:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:41:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:41:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:41:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:41:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:41:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:41:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:42:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:42:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:42:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:42:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:42:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:42:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:43:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-19 16:43:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-20 09:30:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-20 09:31:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-20 09:45:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+===============
+[2024-09-20 09:46:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+===============
+[2024-09-20 09:46:30] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+===============
+[2024-09-20 09:46:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+===============
+[2024-09-20 09:46:33] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc./app/views/Page/view.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 36
+===============
+[2024-09-20 09:46:36] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc./app/views/Page/view.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 36
+===============
+[2024-09-20 09:46:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+===============
+[2024-09-20 09:53:17] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc./app/views/Page/view.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 36
+===============
+[2024-09-20 09:53:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+===============
+[2024-09-20 09:53:39] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc./app/views/Page/view.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 36
+===============
+[2024-09-20 09:53:40] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+===============
+[2024-09-20 09:57:28] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc./app/views/Page/view.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 36
+===============
+[2024-09-20 09:57:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+===============
+[2024-09-20 12:02:29] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc./app/views/Page/view.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 36
+===============
+[2024-09-20 12:02:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-20 12:02:33] Текст ошибки: Undefined array key "description" | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 52
+===============
+[2024-09-20 12:02:33] Текст ошибки: Undefined array key "description" | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 52
+===============
+[2024-09-20 12:02:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-20 12:03:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-20 12:17:36] Текст ошибки: Undefined property: wfm\View::$data | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-20 12:17:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-20 12:18:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-20 16:19:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-20 16:19:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-20 16:19:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============

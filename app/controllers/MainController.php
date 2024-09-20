@@ -1,13 +1,17 @@
 <?php
 namespace app\controllers;
+
 use wfm\Controller;
 
 class MainController extends Controller
 {
+
   public function indexAction() {
-    echo "Привет мир!";
-    echo __METHOD__;
+    $this->setMeta('Главная страница', 'Description', 'Keywords...');
+    $this->set(['dota 2', 'cs go']);
   }
+
+
 };
 
 ?>

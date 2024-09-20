@@ -12,7 +12,5 @@ require CONFIG . '/routes.php';
 
 new App();
 
-debug(Router::getRoutes());
-
 
 ?>
