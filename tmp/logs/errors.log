@@ -1066,3 +1066,405 @@
 ===============
 [2024-09-20 16:19:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
 ===============
+[2024-09-23 11:23:22] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:23:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:23:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:23:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:23:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:51:57] Текст ошибки: Call to a member function find() on null | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+===============
+[2024-09-23 11:51:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:52:16] Текст ошибки: No connection to db | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 17
+===============
+[2024-09-23 11:52:16] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:52:17] Текст ошибки: No connection to db | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 17
+===============
+[2024-09-23 11:52:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:53:18] Текст ошибки: No connection to db | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 17
+===============
+[2024-09-23 11:53:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:53:19] Текст ошибки: No connection to db | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 17
+===============
+[2024-09-23 11:53:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:53:19] Текст ошибки: No connection to db | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 17
+===============
+[2024-09-23 11:53:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:53:19] Текст ошибки: No connection to db | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 17
+===============
+[2024-09-23 11:53:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:53:44] Текст ошибки: No connection to db | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 17
+===============
+[2024-09-23 11:53:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:53:45] Текст ошибки: No connection to db | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 17
+===============
+[2024-09-23 11:53:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:53:46] Текст ошибки: No connection to db | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 17
+===============
+[2024-09-23 11:53:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:53:46] Текст ошибки: No connection to db | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 17
+===============
+[2024-09-23 11:53:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:54:18] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 109
+===============
+[2024-09-23 11:54:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:56:03] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 112
+===============
+[2024-09-23 11:56:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:56:04] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 112
+===============
+[2024-09-23 11:56:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:56:04] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 112
+===============
+[2024-09-23 11:56:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:56:36] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:56:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:56:55] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:56:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:56:56] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:56:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:56:56] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:56:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:56:58] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:56:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:56:59] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:56:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:56:59] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:56:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:57:05] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:57:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:57:05] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:57:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:57:05] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:57:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:57:05] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:57:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:59:12] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:59:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:59:12] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:59:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:59:12] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:59:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:59:13] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:59:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:59:13] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:59:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:59:13] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:59:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 11:59:13] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 11:59:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:00:26] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:00:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:00:26] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:00:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:00:27] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:00:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:00:27] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:00:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:00:27] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:00:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:00:27] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:00:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:00:27] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:00:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:00:28] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:00:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:00:51] Текст ошибки: Undefined constant RedBeanPHP\Logger\RDefault::C_LOGGER_ARRAY | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 110
+===============
+[2024-09-23 12:00:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:01:04] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:01:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:01:04] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:01:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:01:05] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:01:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:01:05] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:01:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:01:05] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:01:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:01:05] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:01:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:12:16] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:12:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:12:17] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:12:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:12:17] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:12:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:12:18] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:12:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:13:52] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:13:52] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:13:53] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:13:53] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:13:53] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:13:53] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:13:53] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:13:54] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:13:56] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:13:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:13:57] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:13:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:13:57] Текст ошибки: Invalid mode selected for logger, use C_LOGGER_ARRAY or C_LOGGER_ECHO. | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Logger\RDefault.php | Строка: 111
+===============
+[2024-09-23 12:13:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 12:14:39] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 12:14:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:31:14] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:31:14] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:31:18] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:31:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:31:18] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:31:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:31:18] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:31:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:32:04] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:32:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:32:06] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:32:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:33:00] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:33:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:37:18] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:37:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:37:19] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:37:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:37:20] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:37:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:37:20] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:37:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:37:20] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:37:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:37:21] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:37:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:37:21] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:37:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:37:21] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:37:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-23 16:37:21] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-23 16:37:22] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 16:35:44] Текст ошибки: Undefined array key 0 | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-24 16:35:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 16:36:16] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+===============
+[2024-09-24 16:36:16] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 16:36:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 17:51:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 17:51:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 17:51:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:14:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:15:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:15:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:15:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:15:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:15:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:15:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:16:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:16:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:16:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:16:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:17:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:17:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:17:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:18:16] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:18:53] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:20:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:20:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:20:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:20:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:20:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:20:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:20:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:20:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:20:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:20:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:41:30] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:42:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:42:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:42:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:42:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:45:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:51:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:51:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:51:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
+[2024-09-24 18:51:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 61
+===============
