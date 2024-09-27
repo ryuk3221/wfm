@@ -18,7 +18,7 @@ class Db {
     }
     R::freeze(true);
     if (DEBUG) {
-      R::debug(true);
+      R::debug(true, 3);
     }
   }
 }

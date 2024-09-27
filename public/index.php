@@ -1,6 +1,5 @@
 <?php
 use wfm\App;
-use wfm\Router;
 
 if (PHP_MAJOR_VERSION < 8) {
   die('Необходима версия PHP 8.0');

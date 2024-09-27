@@ -1,12 +1,5 @@
-<?php
-
-use wfm\View;
-
-?>
   <?php $this->getPart('parts/header');?>
 
-  <?= debug($this->content);?>
+	<?= $this->content;?>
 
-  <?php $this->getDbLogs();?>
-
-  <?php $this->getPart('parts/footer');?>
+	<?php $this->getPart('parts/footer');?>

@@ -13,7 +13,6 @@ class App
         self::$app = Registry::getInstance();
         $this->getParams();
         Router::dispatch($query);
-        // var_dump($query);
     }
 
     protected function getParams() {
