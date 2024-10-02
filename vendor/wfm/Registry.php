@@ -13,7 +13,7 @@ class Registry
     self::$props[$name] = $value;
   }
 
-  public function getProperty($name, $value) {
+  public function getProperty($name) {
     return self::$props[$name] ?? null;
   }
 
