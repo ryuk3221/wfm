@@ -52,7 +52,7 @@
 								</ul>
 							</div>
 
-							<div class="dropdown d-inline-block">
+							<!-- <div class="dropdown d-inline-block">
 								<a href="#" class="dropdown-toggle" data-bs-toggle="dropdown">
 									<img src="<?= PATH ?>/assets/img/ru.png" alt="">
 								</a>
@@ -63,7 +63,11 @@
 										English</button>
 									</li>
 								</ul>
-							</div>
+							</div> -->
+							<?php
+								use app\widgets\Language\Language;
+								new Language();
+							?>
 
 						</div>
 					</div>
