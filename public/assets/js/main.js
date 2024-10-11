@@ -39,4 +39,9 @@ $(function() {
 		}
 	});
 
+	$('#languages button').on('click', function () {
+		const lang_code = ;
+	});
+
 });
+
